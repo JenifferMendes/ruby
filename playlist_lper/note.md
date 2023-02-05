@@ -21,3 +21,9 @@ array.delete("dado")
 array = []
 # mesma ideia também do javascript de procurar por indice array[0] etc
 ```
+
+hash 
+{ chave: valor}
+caso queira pesquisar sobre o valor no hash use: 
+```array[:chave]```
+
