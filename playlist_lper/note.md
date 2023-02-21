@@ -21,9 +21,10 @@ array.delete("dado")
 array = []
 # mesma ideia também do javascript de procurar por indice array[0] etc
 ```
-
-hash 
-{ chave: valor}
+<!-- ideia do hash é parecida com dicionario ou objeto do javascript -->
+hash = { chave: valor} 
 caso queira pesquisar sobre o valor no hash use: 
 ```array[:chave]```
+
+return é opcional em ruby, pois o metodo sempre retorna a ultima coisa que está no código do método.
 
