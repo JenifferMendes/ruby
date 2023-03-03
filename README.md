@@ -1,2 +1,2 @@
-# treinadev-ruby
+# ruby
 puts esqueci
